@@ -1,0 +1,28 @@
+C:\Users\user\.jdks\openjdk-23.0.2\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.3\lib\idea_rt.jar=56927:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.3\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\user\IdeaProjects\untitled3\out\production\untitled3 Main
+Welcome to the Calculator!
+Please enter your arithmetic expression(or type 'history' to view past calculations): power(2,5)
+Result: 32.0
+Do you want to continue? (y/n): y
+Please enter your arithmetic expression(or type 'history' to view past calculations): 34/9*(86-abs(-56))
+Result: 113.33333333333333
+Do you want to continue? (y/n): y
+Please enter your arithmetic expression(or type 'history' to view past calculations): round(98.72747548)
+Result: 99.0
+Do you want to continue? (y/n): y
+Please enter your arithmetic expression(or type 'history' to view past calculations): sqrt(256)
+Result: 16.0
+Do you want to continue? (y/n): y
+Please enter your arithmetic expression(or type 'history' to view past calculations):  98%5
+Result: 3.0
+Do you want to continue? (y/n): y
+Please enter your arithmetic expression(or type 'history' to view past calculations): history
+Calculation History:
+power(2,5) = 32.0
+34/9*(86-abs(-56)) = 113.33333333333333
+round(98.72747548) = 99.0
+sqrt(256) = 16.0
+98%5 = 3.0
+Please enter your arithmetic expression(or type 'history' to view past calculations): exit
+Thank you for using the Calculator!
+
+Process finished with exit code 0
